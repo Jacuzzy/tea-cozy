@@ -102,7 +102,7 @@ footer {
 }
 
 #mission {
-  background: url("img/img-mission-background.jpg") center top/cover no-repeat;
+  background: url("images/img-mission-background.jpg") center top/cover no-repeat;
   min-height: 700px;
   margin-top: 70px;
 }
@@ -113,7 +113,7 @@ footer {
 }
 
 #location {
-  background: url("img/img-locations-background.jpg") right top/cover no-repeat;
+  background: url("images/img-locations-background.jpg") right top/cover no-repeat;
   min-height: 500px;
 }
 
